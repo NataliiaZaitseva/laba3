@@ -23,7 +23,6 @@ public class ClickCancelButton extends BaseClass{
     private By actualText = By.xpath("//p[@id='confirm-demo']");
     String expectedText = "You pressed Cancel!";
 
-
     @Test
     public void clickCancelButton() {
 
