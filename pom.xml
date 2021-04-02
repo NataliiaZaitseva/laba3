@@ -45,7 +45,9 @@
                 <version>3.0.0-M5</version>
                 <configuration>
                     <includes>
-                        <include>CalculatorTest1.java</include>
+                        <include>DaySelected.java</include>
+                        <include> MorbiLeoRisus</include>
+                        <include>ClickCancelButtonmvn</include>
                     </includes>
                 </configuration>
             </plugin>
